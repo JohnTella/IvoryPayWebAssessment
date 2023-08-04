@@ -1,6 +1,4 @@
-**IvoryPayWebAssessment**
-
-This assessment was submitted for a QA engineer role at IvoryPay
+**IvoryPayWebAssessment**  
 The selenium webdriver automation code was written in Java with TestNG framework.
 
 **LANGUAGE AND FRAMEWORK**  
